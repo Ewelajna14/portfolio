@@ -347,3 +347,19 @@ h3{
 
 /*skills style ends */
 
+/*about me*/
+
+.about--section {
+  display: grid;
+  padding: 133.3px 85.3px;
+  align-items: center;
+  gap: 114.6px;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.about--section--img > img {
+  width: 100%;
+  height: 100%;
+}
+
+/*about me ends*/
