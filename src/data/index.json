@@ -1,0 +1,60 @@
+{
+    "skills": [
+        {
+            "id": "1",
+            "src": "./img/product-chain-1.png",
+            "title": "Front-End",
+            "description": "shhdsj chsdjfjshf"
+        },
+        {
+            "id": "2",
+            "src": "./img/tag-1.png",
+            "title": "Back-End",
+            "description": "shhdsj chsdjfjshf"
+        },
+        {
+            "id": "3",
+            "src": "./img/feather-pen-2.png",
+            "title": "UI & UX",
+            "description": "shhdsj chsdjfjshf"
+        },
+        {
+            "id": "4",
+            "src": "./img/feather-pen-1.png",
+            "title": "Webflow development",
+            "description": "shhdsj chsdjfjshf"
+        },
+        {
+            "id": "4",
+            "src": "./img/feather-pen-1.png",
+            "title": "Webflow development",
+            "description": "shhdsj chsdjfjshf"
+        }
+    ],
+
+    "portfolio": [
+        {
+            "id": "1",
+            "src": "./img/placeholder-image.png",
+            "title": "Front-End",
+            "description": "shhdsj chsdjfjshf",
+            "link": "View in github"
+        },
+        {
+            "id": "2",
+            "src": "./img/placeholder-image-1.png",
+            "title": "Back-End",
+            "description": "shhdsj chsdjfjshf",
+            "link": "View in github"
+        },
+        {
+            "id": "3",
+            "src": "./img/placeholder-image-2.png",
+            "title": "UI & UX",
+            "description": "shhdsj chsdjfjshf",
+            "link": "View in github"
+        }
+        
+    ]
+    
+}
