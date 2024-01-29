@@ -55,6 +55,34 @@
             "link": "View in github"
         }
         
+    ],
+
+    "blogs": [
+        {
+            "id": "1",
+            "count": "5",
+            "src": "./img/avatar-image.png",
+            "description": "shhdsj chsdjfjshf",
+            "author_name": "gdgs hjdhshjdhs",
+            "author_designation": "View in github"
+        },
+        {
+            "id": "1",
+            "count": "5",
+            "src": "./img/avatar-image-1.png",
+            "description": "shhdsj chsdjfjshf",
+            "author_name": "gdgs hjdhshjdhs",
+            "author_designation": "View in github"
+        },
+        {
+            "id": "1",
+            "count": "5",
+            "src": "./img/avatar-image-2.png",
+            "description": "shhdsj chsdjfjshf",
+            "author_name": "gdgs hjdhshjdhs",
+            "author_designation": "View in github"
+        }
+        
     ]
     
 }
