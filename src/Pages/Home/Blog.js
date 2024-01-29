@@ -4,7 +4,7 @@ import data from '../../data/index.json';
 
 export default function Blog(){
     return(
-        <section className="testimonial--section" id="testimonial">
+        <section className="testimonial--section" id="Blog">
         <div className="portfolio--container-box">
           <div className="portfolio--container">
             <p className="sub--title">Recent</p>

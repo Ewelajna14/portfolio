@@ -3,6 +3,8 @@ import MySkills from "../MySkills";
 import AboutMe from "../AboutMe";
 import MyPortfolio from "../MyPortfolio"
 import Blog from "../Blog";
+import ContactMe from "../ContactMe";
+import Footer from "../Footer";
 
 
 export default function Home(){
@@ -13,6 +15,8 @@ export default function Home(){
         <AboutMe/>
         <MyPortfolio/>
         <Blog/>
+        <ContactMe/>
+        <Footer/>
         </>
     )
 }
